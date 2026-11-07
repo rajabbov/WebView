@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        />
+    <item
+        android:title="System"
+        >
+        <menu
+            >
+            <item
+                android:id="@+id/addFragment"
+                android:icon="@drawable/ic_add"
+                android:title="Add"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        />
+    <item
+        android:id="@+id/timeFragment"
+        android:icon="@drawable/ic_time"
+        android:title="Time"/>
+    <item
+        android:id="@+id/Icphone"
+        android:icon="@drawable/ic_phone"
+        android:title="Chaqiruvlar"
+        />
+
+</menu>

@@ -1,0 +1,218 @@
+<resources>
+    <string-array name="initial">
+        <item>0</item>
+        <item>1000</item>
+    </string-array>
+    <string name="app_name">Hikoya</string>
+    <string name="TilvaYurak">Luqmoni hakimni bir kishi sotib olib, dargohida xizmat qildirardi va undagi ilmu hikmatni gohi-gohida sinab ko‘rardi. Bir kuni imtihon tarzida buyurdi:
+
+- Ey Luqmon, menga bir qo‘yni so‘yib, eng yaxshi a’zosini olib kelgin.
+
+- Bosh ustiga, - dedi Luqmon va qo‘yni so‘yib, tili bilan yuragini xojasiga eltdi.
+
+ Ancha muddat o‘tgandan keyin xoja uni yana chaqirib, dedi:
+
+- Ey Luqmon, bir qo‘yni so‘ygin-da, menga uning eng yomon a’zosini olib kelgin.
+
+Luqmon qo‘yni so‘yib, yana tili bilan yuragini ko‘tarib keldi.
+
+Xoja dedi:
+
+- Nega qo‘yning eng yaxshi a’zosini so‘rasam ham, eng yomonini so‘rasam ham til va yurakni ko‘tarib kelding?
+
+Luqmon dedi:
+
+- Ey xoja, agar pok bo‘lsa, hech narsa til va yurakdan yaxshi emas. Agar nopok bo‘lsa, hech narsa ulardan yomonroq emas.
+
+</string>
+    <string name="BogirsoqErtagi">Bir bor ekan, bir yo’q ekan. Qadim zamonda chol va kampir bo’lgan ekan.. Bir kuni chol kampiriga qarab:
+— Menga bo’g’irsoq pishirib ber, — debdi.
+— Unimiz yo’q-ku. Bo’g’irsoqni nimadan pishirib beraman? — debdi kampir.
+— Suprani qoqib-sidirsang, bo’g’irsoqqa yetadigan un yig’ilib qoladi, — debdi chol kampiriga.
+Kampir suprani qoqib-sidirib bo’g’irsoqqa yetadigan un yig’ibdi. Kampir unni qaymoqqa qoribdi, zuvala yasab bo’g’irsoq qilibdi va pechga joylabdi. Bo’g’irsoq qizarib , chiroyli bo’lib pishibdi. Kampir uni pech ichidan olib, sovishi uchun deraza raxiga qo’yibdi.
+Yotaverib-yotaverib zerikkan bo’g’irsoq asta dumalab derazadan so’riga, so’ridan yerga tushibdi-da, eshik oldiga kelib qolibdi. Eshikdan dahlizga, dahlizdan pillapoyaga, pillapoyadan hovliga, hovlidan saroyga, saroydan tashqariga chiqib yo’lga ravona bo’libdi. Bo’g’irsoq yo’lda dumalab ketayotib, bir quyonni uchratib qolibdi:
+— Bo’g’irsoq, bo’g’irsoq! Men seni yeyman, — debdi quyon.
+— Meni yema, quyonvoy, men senga qo’shiq aytib beraman, — debdi bo’g’irsoq va qo’shiq ayta boshlabdi:
+— Men bo’g’irsoq, bo’g’irsoq, supradagi un-urvoq.
+Sidirishib oldilar, qaymoqqa xo’p qordilar.
+Pishdim pechda, tovada, sovitdilar havoda.
+Qochib ketdim bobomdan, qochib ketdim buvimdan.
+Eshit, quyon, bo’ldi bas, sendan qochish hech gapmas.
+Bo’g’irsoq qo’shig’ini tugatishi bilan yana dumalab yo’lga tushibdi. Quyon bo’lsa og’zini ochib qolaveribdi.
+Bo’g’irsoq yumalab ketaveribdi, ketaveribdi. Qarshisidan bo’ri chiqib qolibdi.
+— Bo’g’irsoq, bo’g’irsoq, men seni yeyman, — debdi bo’ri.
+— Meni yema, bo’z bo’rijon, senga qo’shiq aytib beraman, — debdi va qo’shiq ayta boshlabdi:
+— Men bo’g’irsoq, bo’g’irsoq, supradagi un-urvoq.
+Sidirishib oldilar, qaymoqqa xo’p qordilar.
+Pishdim pechda, tovada, sovitdilar havoda.
+Qochib ketdim bobomdan, qochib ketdim buvimdan.
+Qochib ketdim quyondan.
+Eshit, bo’ri, bo’ldi bas, sendan qochish hech gapmas!
+Bo’g’irsoq dumalashda davom etib, ko’z ochib yumguncha bo’ridan uzoqlashib ketibdi.
+Bir payt oldidan ayiq chiqib qolibdi.
+— Bo’g’risoq, bo’g’irsoq men seni yeyman, — debdi ayiq.
+— Maymoqvoy, meni yeyish senga yo’l bo’lsin, — debdi bo’g’irsoq va o’z qo’shig’ini ayta boshlabdi:
+— Men bo’g’irsoq, bo’g’irsoq, supradagi un-urvoq.
+Sidirishib oldilar, qaymoqqa xo’p qordilar.
+Pishdim pechda, tovada, sovitdilar havoda.
+Qochib ketdim bobomdan, qochib ketdim buvimdan.
+Qochib ketdim quyondan, qochib ketdim bo’ridan.
+Eshit. ayiq, bo’ldi bas, sendan qochish hech gapmas.
+U shunday kuylab dumalab ketibdi. Ayiq bo’lsa, og’zini ochgancha anqayib qolibdi. Bo’g’irsoq dumalab ketaveribdi, ketaveribdi, oldidan tulki chiqib qolibdi.
+— Salom, bo’g’irsoq, — debdi tulki. — Namuncha dum-dumaloq, qizarib pishgan bo’lmasang? Shu tobda qayoqqa dumalab ketyapsan?
+Bo’g’irsoq tulkining maqtovlariga uchib, dumalashdan to’xtabdi va qo’shiq ayta boshlabdi:
+— Men bo’g’irsoq, bo’g’irsoq, supradagi un-urvoq.
+Sidirishib oldilar, qaymoqqa xo’p qordilar.
+Pishdim pechda, tovada, sovitdilar havoda.
+Qochib ketdim bobomdan, qochib ketdim buvimdan.
+Qochib ketdim quyondan, qochib ketdim bo’ridan.
+Qochib ketdim ayiqdan.
+Eshit, tulki, bo’ldi bas, sendan qochish hech gapmas.
+Bo’g’irsoq yana dumalay boshlagan ekan, tulki unga shunday debdi:
+— Qo’shig’ing buncha yoqimli bo’lmasa! Qarilik qursin, qulog’im yaxshi eshitmay qolgan, Sendan iltimos, shu qo’shig’ingni burnimga chiqib yana bir marta aytib ber. Eshitib maza qilay. Faqat qattiqroq ayt.
+Bo’g’irsoq tulkining burniga chiqib kuylay boshlabdi:
+— Men bo’g’irsoq, bo’g’irsoq, supradagi un-urvoq.
+Sidirishib oldilar, qaymoqqa xo’p qordilar.
+Pishdim pechda, tovada, sovitdilar havoda.
+Qochib ketdim bobomdan, qochib ketdim buvimdan.
+Qochib ketdim quyondan, qochib ketdim bo’ridan.
+Qochib ketdim ayiqdan.
+Eshit, tulki, bo’ldi bas, sendan qochish hech gapmas.
+— Rahmat, bo’g’irsoq, — debdi tulki unga. — Qo’shig’ing haqiqatan ham ajoyib. Qani edi uni yana bir marta eshitsam. Tilimga tushgin-da uni menga so’nggi marta aytib ber.
+Bo’g’irsoq tulkining og’ziga sakrab tushibdi, tulki bo’lsa bo’g’irsoqni «xap» etib yeb qo’yibdi!
+    
+    </string>
+    <string name="Zumradvaqimmat">Bir bor ekan, bir yo‘q ekan, bir chol bor ekan. Uning Zumrad ismli qizi bor ekan. Chol bir qizi bor ayolga uylanibdi. Qizining ismi Qimmat ekan. O‘gay ona Zumradni yoqlirtmas ekan. Eng og‘ir ishlarni unga buyurar, qarg‘ab, urarkan. O‘zining qizini juda yaxshi ko‘rarkan, doim uni maqtagani maqtagan ekan.
+Zumrad aqlli, chiroyli va muloym qiz ekan. Qimmat esa unga hech ham o‘xshamas ekan. U tantiq, qo‘pol va dangasa ekan. Kun bo‘yi ovqat yer, bo‘lar-bo‘lmasga urisharkan.
+Har tong qushlar ham, gullar ham Zumradni qo‘shiq kuylab, olqishlab kutib olar, Qimmatni esa ular yoqtirmas edilar, chunki u gullarni yulib tashlar, tepkilar, qushlarga tinchlik bermasdi.
+O‘gay ona bularni ko‘rib turardi. Zumraddan qutilmoqchi bo‘lib cholga:
+-Agar q’izingni yo‘qotmasang, sen bilan birga yashamayman! Uni o‘rmonga olib borib tashla! — deb qichqiribdi.
+Chol nima qilarini bilmay qolibdi. Kampir esa tinchlik bermasmish. Chol Zumradni o‘rmonga olib boribdi. Ular uzoq yurishibdi, o‘rmon ichiga kirishibdi.
+Shu yerda o‘tirib tur, qizim. Men o‘tin kesib kelaman, — debdi chol. Uzoqroqqa borib, boltasini daraxtga osib qo‘yibdi: “Taq! Taq!”-bolta shamolda daraxtga urilarmish. Zumrad taqillagan ovozni eshitib, “otam o‘tin kesyapti” deb o‘ylabdi.
+U otasini uzoq kutibdi, lekin darak bolmabdi. Taqillagan ovoz ham chiqmay qolibdi. Otasini qidirib yursa, bexosdan bolta osilgan daraxt tagiga borib qolibdi. Qarasa, otasi yo‘q emish.
+Zumrad qo‘rqqanidan yig‘lab yuboribdi. U o‘rmonda uzoq yurib, adashib qolibdi. O‘rmon ichi qo‘rqinchli tusga kira boshlabdi. Ancha kech bo‘lib qolgan edi-da. Nihoyat bir yorug‘lik ko‘rina boshlabdi. Zumrad o‘sha tomonga qarab yura boshlagan ekan, bir kichkina uycha yoniga kelib qolibdi. Derazadan mo‘ralasa, ichkarida bir kampir o‘tirgan ekan. Eshikni taqillatib. ichkariga kiribdi. Salom beribdi. Keyin boshidan kechirgan voqealami aytib beribdi. Kampir sehrgar ekan. U Zumradni iliq, mehribonlik bilan kutib olibdi.
+-Xafa bo‘lma, men senga yordam beraman. U Zumradni ovqatlantiribdi, ovutibdi, erkalabdi.
+— Meni o‘z onamdek qabul qildingiz, — debdi Zumrad. — Sizga qanday qaytarsam ekan, men ishdan qochmayman, ishlaringizni jon-dilim bilan bajaraman.
+Zumrad kampirga juda yoqib qolibdi. Uni erkalab, qo‘g‘irchoqlar beribdi, ertaklar aytib beribdi, qiziq-qiziq kitoblar ko‘rsatibdi.
+Shunday qilib ular ancha kun birga yashashibdi. Zumrad kelgach, uy saranjom-sarishta, chinniday toza bo‘lib qoldi.
+Bir kuni kampir osh qilmoqchi bolib:
+Qizim, tomga chiqib o‘tin olib tushgin, — debdi Zumradga.
+Xo‘p bo‘ladi, buvijon, — deb Zumrad tomga chiqibdi.
+Tom juda baland ekan, u yerdan hammayoq ko‘rinar ekan. Qiz atrofni tomosha qilib turib, qadrdon uyiga ko‘zi tushibdi. Yuragi uvishib, yiglab yuboribdi.
+Nega yig‘layapsan, jon qizim? so‘rabdi
+kampir.
+— Uyimizni ko‘rib qoldim, otamni sog‘indim, — deb Zumrad yig‘lab yuboribdi.
+Kampir uni yupatibdi, osh eyishibdi, keyin ertak aytib beribdi. Qiz uxlab qolibdi.
+Qizginam, o‘yinchoqlaringni yig‘ishtir. Seni uyingga jo‘nataman, -debdi kampir.-Tomda qizil va oq sandiq bor. Oq sandiqni qoldirib, qizil sandiqni olib tush.
+O‘zi esa o‘rmonga kirib ketibdi. Zumrad narsalarini yig‘ishtirguncha, u saman ot qo‘shilgan aravani yetaklab kelibdi. Aravaga qizil sandiqni joylabdi, Zumradni esa o‘tqazib:
+Kalitni ushla. Uyingga borganingdan keyin sandiqni ochasan, debdi.
+Qiz kampirga minnatdorchilik bildirib, xayirlashibdi-da, yo‘lga tushibdi. Shu payt chol qizini sog‘inib, ostonada o‘tirgan ekan.
+Salom, otajon! — deb otasining bag‘riga otilibdi.
+Qizining soq‘-salomat ekanligidan xursand bo‘lgan chol, anchagacha ko‘z yoshlarini to‘xtatolmabdi.
+Oppog‘im, men nodon cholni kechir!
+Ular uyga kirishibdi. Qo‘ni-qo‘shnilar yig‘ilibdi. Zumrad kalit bilan sandiqni ochibdi.
+— Voy-bo‘!!! — hayron bo‘ganliklarini yashirol mabdilar atrofdagilar.
+Sandiq qimmatbaho kiyimlar, shoyi va taqinchoqlarga liq to‘la emish. Zumradning butun umriga yetib, ortar emish.
+O‘gay ona esa bularni ko‘rib bezovta bolib, tipirchilab qolibdi. Shu ondayoq Qimmatni ham o‘rmonga olib borishni buyuribdi. Chol tezda otlanib, Qimmatni qalin o‘rmonga olib boribdi.
+Kech kirganda Qimmat cholning boltasi osib qo‘yilgan daraxt tagiga kelibdi. Baqirib, ho‘ng-ho‘ng yig‘labdi. Vahimaga tushib, yugura boshlabdi, nihoyat, kampirning uyi yoniga kelib qolibdi.
+— Xafa bolma, qizim, senga yordam beraman debdi kampir va uni ovqatlantiribdi, iliq so‘zlar aytibdi.
+Lekin Qimmat yaxshi so‘zlar topib, kampirga minnatdorchiligini bildirmabdi. Kampir undan xafa bo‘libdi, qo‘g‘irchoqlar va rasmli kitoblar bermabdi, ertak ham aytib bermabdi.
+Kunlar, haftalar o‘taveribdi. Qimmat ertadan kechgacha yalqovlanib o‘tiraverar, uyni yig‘ish- tirmas, kampirga ham yordam bermabdi. Uy ham iflos va chang bolib ketibdi.
+Bir kun kampir Qimmatga:
+-Tomga chqib, o‘tin olib tush, qizim,- debdi.
+Sizga kerak boisa, o‘zingiz olib tushing, — deb javob qaytaribdi Qimmat.
+Kampir uni tomga chiqishga zo‘rg‘a ko‘ndiribdi. Qimmat tomga chiqib, o‘tin olib tushish o‘rniga, o‘tirib olib yig‘lay boshlabdi.
+— Nega yig‘layapsan, qizim? — deb so‘rabdi kampir.
+— Uyimni ko‘rib qoldim, ketgim kelyapti, — deb yig‘isini davom ettiribdi Qimmat.
+Ha, mayli, boraqol. Tomdagi sandiqni o‘zing bilan olib tush.
+Qimmat xursand bo‘lib ketibdi sandiqni tomdan olib tushibdi.
+Sandiqni uyingga borganda ochasan, — debdi kampir va qizga kalitni beribdi.
+Lekin kampir Qimmatga ot, arava bermabdi, u sandiqni orqalagancha, uyiga piyoda ketibdi.
+Qimmatni qaytayotganini olapar itlari sezibdi. It jahldor kampirni oldiga borib:
+Vov, vov, vov! Opam kelayotir! Ilon tola sandiqni orqalab kelayotir, — deb vovullabdi.
+Kampir g‘azablanib, tayoqcha bilan itni urib, oyog‘ini sindiribdi.
+Mening aqlli qizim kelyapti, qimmatbaho mollar keltiryapti, — o‘zida yo‘q xursand emish kampir.
+Qimmat uyiga zo‘rg‘a-zo‘rg‘a yetib kelibdi. Qo‘shnilar yig‘ilibdi. Qimmat onasi bilan sandiqni ochmaslik uchun ustiga o‘tirib olishibdi. Kechqurun sandiqni ichkari xonaga olib kirib, eshiklarni mahkam yopishibdi-da sandiqni ochishibdi-yu, “Voy, dod, qutqaringlar! Ajdar! Yordam beringlar!” — deb baqirishga tushishibdi.
+Sandiqdan ikkita kattakon ajdar chiqib kampir bilan qizni yutib. derazadan chiqib ketishibdi.
+“Dod-voy!”ni eshitib qo‘ni-qo‘shnilar yordam berish uchun yig‘lishibdi, eshikni buzishib ichkariga kirishsa, kampir ham, qizi ham yo‘q emish. Rosa qidirishibdi, topisholmabdi.
+Chol Zumrad qizi bilan shod-xurram yashashibdi.</string>
+    <string name="Yaxshilikketida">
+        Kunlardan bir kun Xorazm yurtining podshohi mamlakatda eng chiroyli so‘z aytish bahsini o‘tkazmoqchi bo‘libdi. O‘sha kundan boshlab chiroyli so‘z, go‘zal so‘z degan gaplar odamlarning og‘zidan tushmay qolibdi. Ana shu gaplar bahsga aylanib, katta bir kengash o‘tkazilibdi. Kengash butun mamlakatga e’lon qilingan ekan. Bir dehqon yigit men ham qatnashay, sovringa ega bo‘lsam, bir qo‘shho‘kiz olardim, deya niyat qilibdi. Shohona darvoza oldiga kelib, qo‘lidagi o‘roq, yelkasidagi ketmonni yerga qo‘yib, „Bismilloh“, deb ichkari kirib, safga qo‘shilibdi. Bahs avjiga chiqqan ekan.
+
+O‘z taxtida bahslarni kuzatib, tantana bilan o‘tirgan shohga qo‘lini ko‘ksiga qo‘yib, ta’zim qilib salom yo‘llabdi. Bahsni saroy a’yonlari baholab o‘tirishar ekan. Shunda bahsda qatnashayotgan bir kishi o‘rnidan turib:
+
+– Yomonlik qilma! Yomonlik ketidan yomonlik keladi, – degan gaplarni aytibdi. Qilni qirq yoradigan hakamlar qarsak chalib olqishlashibdi. Shoh ham qarsak chalibdi.
+
+Navbat dehqon yigitga kelibdi.
+
+– Yaxshilik qil! Yaxshilik ketidan yaxshilik keladi, – deb qo‘lini ko‘ksiga qo‘yibdi. Atrofdagilar qarsak chalishibdi. Shoh esa o‘rnidan turib qarsak chalibdi.
+
+– Shohanshohim, – deb so‘rabdi hakamlardan biri. – Birinchi ishtirokchi o‘z so‘zini aytganida yengilgina qarsak chaldingiz, ikkinchi qatnashchi so‘zini aytganida esa o‘rningizdan turib ketdingiz. Sabab ne? Buni biz – ha-kamlarga ayting, – debdi.
+
+– Aslida ikkovlari ham foydali so‘zni aytishdi, lekin birinchisi „yomonlik“ deyishi bilan negadir qalbim muzlab ketgandek bo‘ldi. Ikkinchisi yaxshilik degan so‘zni aytishi bilan qalbimdagi muz erib ketgandek bo‘ldi. Shuning uchun o‘rnimdan turib qarsak chaldim. To‘g‘ri so‘zni, chiroyli so‘zni yoqimli qilib aytgani uchun birinchi sovrin shu dehqon yigitga berilsin, –deb farmon beribdi.
+        
+    </string>
+    <string name="TulkivaChumoli">
+        Tulki bilan Chumoli do’st bo’lib bug’doy sepishibdi. Ayyor Tulki har kuni qornim og’riyapti, boshim zirqirayapti degan bahona bilan dalaga chiqmabdi. Chumolining bir o’zi ertadan-kechgacha ishlab suv quyar, o’toq qilar ekan. Nihoyat, bug’doy pishibdi.
+Tulki xirmonning bug’doyga to’lib ketganini ko’rib, Chumolini aldab, hosilning barini o’zi olmoqchi bo’libdi.
+Chumoli do’stim, shuncha bug’doyni taqsimlab o’tirishning nima keragi bor? Kel, yaxshisi, quvlashmachoq o’ynaymiz. Xirmonga kim birinchi bo’lib yetib kelsa, hamma hosil o’shaniki bo’lsin, — debdi.
+Chumoli biroz o’ylanib, nihoyat, rozi bo’libdi.
+Yonma-yon turishibdi.
+Qani, bo’lmasa boshladik! — deya Tulki qichqiribdi-da, xirmon tomon yugurib ketibdi. Lekin chumoli ham bo’sh kelmabdi. U Tulkining dumiga yopishib olibdi.
+Tulki xirmon oldiga yetib kelibdi-da, silkinibdi. Shunda Chumoli sirg’alib tushibdi-da, bug’doy ustiga chiqib olib, o’sha yerdan gap boshlabdi:
+Hoy, Tulki, namuncha imillamasang?
+Tulki sarosimaga tushib qolibdi: Qachon kela qolding?
+Allaqachon! Men dam olishga ham ulgurdim, sen bo’lsang, hali ham hansirab turibsan.
+Shunday qilib Tulki yengilib, boshqa hiyla o’ylab topolmay jo’nab qolibdi.
+Chumoli barcha hosilni omborga tashib olib, qishda uni bir chekkadan yeb yotaveribdi. Dangasa Tulki bo’lsa butun qish och qolibdi.
+    </string>
+    <string name="Samoviypoyga">
+        Qadim-qadim zamonda Koinot atalmish bepoyon saroyda 9 ta aka-uka sayyora boʻlgan ekan. Quvnoq Merkuriyjon, yoqimtoy Veneraxon, hazilkash Yer, kulsa ham, yigʻlasa ham, uyalsa ham, darrov qip-qizarib ketadigan Mars, shirinlikxoʻr Yupiter, ozgʻin boʻlay deb hamisha halqa aylantirib yuradigan Saturn, yuvvoshgina Uran, Neptun bilan Plutonlar ahil-inoq yashagan ekanlar.
+
+Ular orasida Plutonni Pluton chaqqon deb atashar, Pluton aqli, zakovati, barcha narsani oʻz vaqtida bajarishi bilan hammani hayron qoldirar ekan. Oʻsha paytlar Quyoshga eng yaqin boʻlgan bu sayyoraga qolgan barcha sayyoralar havas qilisharkan. Ammo, borib-borib Plutonda kibr degan illat paydo boʻlibdi. U oʻzini barchadan ustunman, deb oʻylab, doʻstlarini kamsitib, dilini ogʻrita boshlabdi.
+
+Sayyoralar yaxshi gap bilan Plutonni bu yoʻldan qaytarmoqchi boʻlishibdi. Ammo Pluton oʻziga shunchalik bino qoʻyganidan ularni eshitishni ham istamabdi. Shunda Quyosh bobo bir chora oʻylabdi va poyga oʻtkazishga qaror qilibdi. Qay bir sayyora poygada birinchi boʻlib kelsa, Quyoshga juda yaqin turadigan boʻlibdi. Kutilgan kun kelib poyga boshlangach, Pluton chaqqon, epchilgina emasmi, darrov hammadan oʻzib ketibdi. Shu dam uning xayoliga kutilmagan fikr kelib qolibdi.
+
+“Hammadan chaqqon va dono boʻlsam, nima qilaman ortiqcha urinib, debdi-da, oʻzini uxlaganga solib toʻxtabdi. Hamma mendan oʻzib ketdim, deb xursand boʻlayotganda shart oʻrnimdan turaman-u barchani lol qoldirib, finish chizigʻini birinchi boʻlib kesib oʻtaman. Oʻshanda hamma angrayib qoladi”, – deb oʻylabdi.
+
+Ammo, shu kun finish chizigʻini birinchi boʻlib Merkuriy, ikkinchi boʻlib Venera, soʻng Yer, Mars, Yupiter, Saturn va boshqa sayyoralar ketma-ketlikda bosib oʻtishibdi. Biroq hanuz Pluton koʻrinmasmish.
+
+Xavotirlangan sayyoralar uni izlay boshlabdilar. Qarashsa, Pluton poyga yoʻlagining bir burchagida uxlab yotganmish. U uygʻongach hamma voqeadan xabar topibdi.
+
+“Endi doʻstlarim ustimdan kulib yuradi”, deb oʻylab rosa ichi siqilib turganida, Venera gap boshlabdi:
+
+Pluton doʻstim, ahvolingiz yaxshimi? Sizdan xavotir oldik. Boshqa sayyoralar ham unga mehr bilan qarabdi. Pluton esa qilgan ishidan qattiq pushaymon boʻlibdi. Shundan beri Quyosh bobo oldida Merkuriy birinchi, Venera ikkinchi, Yer uchinchi, Mars toʻrtinchi, Pluton esa eng oxirgi oʻrinda turar ekan.
+
+Koʻrdingizmi, biz qanchalik kuchli, aqlli va bilimli boʻlmaylik, maqtanchoqlik va oʻziga bino qoʻyish qanday yomon ahvolga soladi.
+    </string>
+
+    <string-array name="countries">
+        <item>Uzbekistan</item>
+        <item>Tojikistan</item>
+        <item>Qirgiziston</item>
+        <item>Qozogiston</item>
+        <item>Turkmaniston</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/setting_id"
+        android:icon="@drawable/ic_settings"
+        android:title="setting"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_search"
+        android:title="search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/file_id"
+        android:title="File">
+        <menu>
+
+            <item
+                android:id="@+id/white_id"
+                android:title="white" />
+            <item
+                android:id="@+id/black_id"
+                android:title="black" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/blue_id"
+        android:title="Blue" />
+
+    <item
+        android:id="@+id/Red_id"
+        android:title="Red" />
+
+    <item
+        android:id="@+id/yellow_id"
+        android:title="yellow"/>
+
+
+</menu>

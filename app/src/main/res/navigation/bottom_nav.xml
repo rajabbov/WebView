@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@+id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        tools:layout="@layout/fragment_home"
+        android:name="com.example.webview.button.HomeFragment"
+        android:label="Home Fragment"/>
+
+    <fragment
+        android:id="@+id/settingFragment"
+        tools:layout="@layout/fragment_setting"
+        android:name="com.example.webview.button.SettingFragment"
+        android:label="Setting Fragment"
+        />
+    <fragment
+        android:id="@+id/addFragment"
+        tools:layout="@layout/fragment_add"
+        android:name="com.example.webview.button.AddFragment"
+        android:label="Add Fragment"/>
+
+    <fragment
+        android:id="@+id/searchFragment"
+        tools:layout="@layout/fragment_search"
+        android:name="com.example.webview.button.SearchFragment"
+        android:label="Search Fragment"
+
+  />
+    <fragment
+        android:id="@+id/timeFragment"
+        tools:layout="@layout/fragment_time"
+        android:name="com.example.webview.button.TimeFragment"
+        android:label="Time Fragment"/>
+
+
+
+</navigation>
